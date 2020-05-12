@@ -1,0 +1,17 @@
+2019-04-03 22:16:57 Server for MON started
+2019-04-04 00:36:56 Server for MON started
+2019-04-04 00:49:49 User [CONU1234] borrow item [MON1010] success.
+2019-04-04 15:22:34 Server for MON started
+2019-04-04 18:16:37 Server for MON started
+2019-04-04 18:19:58Books added Successfully
+2019-04-04 18:20:27Books added Successfully
+2019-04-04 18:21:30 User [CONU1234] borrow item [MON9876] success.
+2019-04-04 18:22:22 User [MCGU1234] borrow item [MON9876] failed: No item left
+2019-04-04 18:23:11 Server add user [MCGU1234] in wait queue of item [MON9876] at position [true] success.
+2019-04-04 18:25:53 User [CONU1234] return item [MON9876] success.
+2019-04-04 18:25:53 User [MCGU1234] borrow item [MON9876] success.
+2019-04-04 18:25:53 Server auto lend item [MON9876] to user : MCGU1234, after user [CONU1234] return.
+2019-04-04 18:27:11 User [MCGU1234] return item [MON9877] failed.
+2019-04-04 18:27:42 User [MCGU1234] return item [MON9876] success.
+2019-04-04 18:27:42 User [MCGU1234] borrow item [MON9877] success.
+2019-04-04 18:27:42 User [MCGU1234] exchange with item [MON9876] for item [MON9877] success.

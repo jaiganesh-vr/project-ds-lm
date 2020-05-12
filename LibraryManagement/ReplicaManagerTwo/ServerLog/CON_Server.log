@@ -1,0 +1,40 @@
+2019-04-03 22:16:49 Server for CON started
+2019-04-03 22:19:05 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:20:39 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:21:08 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:21:38 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:22:17 Manager [CONM0000] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:23:29 Manager [CONM0000] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:31:21 Manager [CONM0000] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-03 22:32:36 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-04 00:36:49 Server for CON started
+2019-04-04 00:39:05 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-04 00:43:45 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-04 00:44:14 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-04 00:44:37 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-04 00:44:58 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}}
+2019-04-04 00:45:44Books added Successfully
+2019-04-04 00:46:02Book removed successful
+2019-04-04 00:47:25 User [CONU1234] borrow item [CON9876] success.
+2019-04-04 00:48:37 User [CONU1234] borrow item [CON1010] success.
+2019-04-04 00:49:49 User [CONU1234] return item [CON9876] success.
+2019-04-04 00:50:25 User [CONU1234] return item [CON1010] success.
+2019-04-04 00:51:15 Manager [CONM0000] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='CONTEST', itemQty='9'}}
+2019-04-04 00:52:15 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='CONTEST', itemQty='9'}}
+2019-04-04 00:52:26 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='CONTEST', itemQty='9'}}
+2019-04-04 00:52:42 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='CONTEST', itemQty='9'}}
+2019-04-04 00:53:08 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='CONTEST', itemQty='9'}}
+2019-04-04 15:22:26 Server for CON started
+2019-04-04 15:24:45 User [CONU1234] found all item named [A] success . Items: Concordia No items are available Montreal No items are available McGill No items are available
+2019-04-04 15:25:32 User [CONU1234] found all item named [DISTRIBUTED SYSTEM] success . Items: Concordia CON1010=Item{itemName='Distributed System', itemQty='10'} Montreal MON1010=Item{itemName='Distributed System', itemQty='20'} McGill MCG1010=Item{itemName='Distributed System', itemQty='20'}
+2019-04-04 18:16:24 Server for CON started
+2019-04-04 18:19:16Books added Successfully
+2019-04-04 18:21:02 User [CONU1234] borrow item [CON9876] success.
+2019-04-04 18:21:30 User [CONU1234] return item [CON9876] success.
+2019-04-04 18:25:53 Server return item [MON9876] for user [CONU1234] to server [MON] success
+2019-04-04 18:28:00 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='DS', itemQty='2'}}
+2019-04-04 18:28:29 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='DS', itemQty='2'}}
+2019-04-04 18:28:46 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='DS', itemQty='2'}}
+2019-04-04 18:28:59 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='DS', itemQty='2'}}
+2019-04-04 18:29:40 Manager [CONM0000] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='DS', itemQty='2'}}
+2019-04-04 18:30:17 Manager [CONM1234] list all of item success. All Items: {CON1012=Item{itemName='Data Structure', itemQty='5'}, CON1010=Item{itemName='Distributed System', itemQty='10'}, CON1011=Item{itemName='Absoulate Java', itemQty='11'}, CON9876=Item{itemName='DS', itemQty='2'}}
